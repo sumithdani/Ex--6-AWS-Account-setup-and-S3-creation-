@@ -1,4 +1,4 @@
-# Ex-2-AWS-Account-setup-and-S3-creation-
+# Ex-3-AWS-Account-setup-and-S3-creation-
 ## NAME: SUMITH DANI M
 ## RED NO: 212224050051
 ## Introduction
